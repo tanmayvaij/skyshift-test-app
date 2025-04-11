@@ -1,0 +1,8 @@
+node_modules
+.git
+.gitignore
+yarn.lock
+dist
+Dockerfile
+README.md
+.eslintrc.cjs
